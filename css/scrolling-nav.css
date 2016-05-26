@@ -14,6 +14,7 @@ html {
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
+		opacity : 0.4;
     }
 
     .top-nav-collapse {
@@ -48,4 +49,8 @@ html {
     padding-top: 150px;
     text-align: center;
     background: #eee;
+}
+
+.page-scrolls{
+	font-size : medium;
 }
