@@ -276,26 +276,25 @@ a:focus {
 
 
 @media(min-width:767px) {
-    .content-section {
-        padding-top: 255px;
+    #videoOne {
+        padding-top: 50px;
     }
 
-    .whatwedo-section {
-        padding: 150px 0;
+    #videoTwo {
+        padding: 50px;
     }
 	
-	.contactus-section {
-		padding: 80px;
+	#videoThree {
+		padding: 50px;
 	}
 	
-	.ourteam-section {
-		padding: 10px;
+	#videoFour {
+		padding: 50px;
 	}
 
-    #map {
-        height: 400px;
-        margin-top: 250px;
-    }
+	#videoFive  {
+		padding: 50px;
+	}
 }
 
 .btn {
